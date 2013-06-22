@@ -1,4 +1,6 @@
 Fst::Application.routes.draw do
+	get "say/saved_resource"
+	get "say/hello"
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
